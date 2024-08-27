@@ -35,7 +35,7 @@
   <img width="22" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
   <img width="22" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidity/solidity-original.svg" height="50" alt="solidity logo"  />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Solidity.png" height="50" alt="solidity logo"  />
   <img width="22" />
 </div>
 
