@@ -15,17 +15,28 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="50" alt="python logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img width="22" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" height="50" alt="android logo"  />
+  <img width="22" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
+  <img width="22" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
+  <img width="22" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/hardhat/hardhat-original.svg" height="50" alt="hardhat logo"  />
+  <img width="22" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="50" alt="kotlin logo"  />
+  <img width="22" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/solidity/solidity-original.svg" height="50" alt="solidity logo"  />
+  
 </div>
 
 ###
