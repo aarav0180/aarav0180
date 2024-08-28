@@ -6,8 +6,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aarav0180&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" padding="20"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav0180&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" padding="20" />
-  <img align="center" height="230" src="https://i.pinimg.com/originals/71/9d/e8/719de86789ed38f5a3fb3d47647351a3.gif" padding="20"/> 
+</div>
 
+###
+
+<div margin=30>
+  <img align="center" height="230" src="https://i.pinimg.com/originals/71/9d/e8/719de86789ed38f5a3fb3d47647351a3.gif" padding="20"/> 
 </div>
 
 
