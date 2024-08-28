@@ -10,8 +10,8 @@
 
 ###
 
-<div align="center , "margin=30>
-  <img align="center" height="230" src="https://i.pinimg.com/originals/71/9d/e8/719de86789ed38f5a3fb3d47647351a3.gif" padding="20"/> 
+<div align="center", margin=30>
+  <img height="230" src="https://i.pinimg.com/originals/71/9d/e8/719de86789ed38f5a3fb3d47647351a3.gif" padding="20"/> 
 </div>
 
 
