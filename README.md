@@ -47,9 +47,9 @@
 ###
 
 <div align="center", margin = 30>
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" height="35" alt="linkedin logo"  />
-  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" height="35" alt="gmail logo"  />
-   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" height="35" alt="instagram logo"  />
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" height="35" alt="linkedin logo" margin=10  />
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" height="35" alt="gmail logo"  margin=10 />
+   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" height="35" alt="instagram logo"  margin=10  />
 </div>
 
 ###
