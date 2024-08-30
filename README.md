@@ -49,7 +49,7 @@
 <div align="center", margin = 30>
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" height="40" alt="linkedin logo" margin=10  />
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" height="35" alt="gmail logo"  margin=10 />
-   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" height="40" alt="instagram logo"  margin=10  />
+   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" height="40" alt="instagram logo"  margin=10 href="https://www.instagram.com/kashyap_aarav_18/?hl=en"/>
 </div>
 
 ###
