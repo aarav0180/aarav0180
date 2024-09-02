@@ -3,7 +3,7 @@
 ###
 
 <div align="center", margin = 30 >
-  <img src="https://github-readme-stats.vercel.app/api?username=aarav0180&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" padding="20"  />
+ <a href="http://www.github.com/aarav0180"><img src="https://github-readme-stats.vercel.app/api?username=aarav0180&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aarav's GitHub stats" /></a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarav0180&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" padding="20" />
 </div>
