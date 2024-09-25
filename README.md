@@ -47,7 +47,7 @@
 ###
 
 <p align="center"> 
-  <a href="https://discord.com/users/gauravchhetri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a> 
+  <a href="https://discord.com/users/aaravkashyap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /></a> 
   <a href="https://www.github.com/aarav0180" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> 
 <!--   <a href="https://muffinboy_.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>  -->
   <a href="https://www.instagram.com/kashyap_aarav_18/?hl=en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a> 
