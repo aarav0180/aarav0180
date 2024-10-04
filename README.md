@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aarav and I'm a App Developer, Web Develoeper, Blockchain Developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Aarav and I'm a App Developer, Web Developer, Blockchain Developer from India.</h2>
 
 ###
 
